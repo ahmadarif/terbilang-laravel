@@ -1,8 +1,8 @@
 # Terbilang Laravel
 
-[![Software License][ico-license]](LICENSE.md)
-[![Latest Stable Version](https://poser.pugx.org/ahmadarif/terbilang/v/stable.svg)](https://packagist.org/packages/ahmadarif/terbilang)
-[![Total Downloads](https://poser.pugx.org/ahmadarif/terbilang/downloads.svg)](https://packagist.org/packages/ahmadarif/terbilang)
+[![License](https://poser.pugx.org/ahmadarif/terbilang/license)](https://packagist.org/packages/ahmadarif/terbilang)
+[![Latest Stable Version](https://poser.pugx.org/ahmadarif/terbilang/v/stable)](https://packagist.org/packages/ahmadarif/terbilang)
+[![Total Downloads](https://poser.pugx.org/ahmadarif/terbilang/downloads)](https://packagist.org/packages/ahmadarif/terbilang)
 
 
 ## Install
@@ -43,23 +43,22 @@ Route::get('/', function () {
 });
 ```
 
+
 ## Security
 
 If you discover any security related issues, please email ahmad.arif019@gmail.com instead of using the issue tracker.
 
+
 ## Credits
 
-- [Ahmad Arif][link-author]
-- [Mulia Nasution]()
+- [Ahmad Arif](https://packagist.org/packages/ahmadarif/terbilang/stats)
+
+
+## Base Project
+
+Thank you [Mulia Nasution](https://github.com/mul14/terbilang-php), as the basic project for the creation of this library.
+
 
 ## License
 
 The MIT License (MIT). Please see [License File](LICENSE.md) for more information.
-
-[ico-version]: https://img.shields.io/packagist/v//.svg?style=flat-square
-[ico-license]: https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square
-[ico-downloads]: https://img.shields.io/packagist/dt//.svg?style=flat-square
-
-[link-packagist]: https://packagist.org/packages/ahmadarif/terbilang
-[link-downloads]: https://packagist.org/packages/ahmadarif/terbilang/stats
-[link-author]: https://github.com/ahmadarif
