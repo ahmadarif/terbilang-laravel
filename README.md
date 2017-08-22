@@ -19,6 +19,34 @@ $ composer require ahmadarif/terbilang
 $teks = Terbilang::make(1000086);
 ```
 
+Then add the service provider in `config/app.php`:
+
+```php
+AhmadArif\Terbilang\TerbilangServiceProvider::class,
+```
+
+And then, add the facade of this package to the $aliases array:
+
+```php
+'Terbilang' => AhmadArif\Terbilang\Facade\Terbilang::class,
+```
+
+## Usage
+
+```php
+Route::get('/', function () {
+    return Terbilang::convert(34124);
+});
+```
+
+or
+
+```php
+Route::get('/', function () {
+    return Terbilang::convert('34124');
+});
+```
+
 ## Security
 
 If you discover any security related issues, please email ahmad.arif019@gmail.com instead of using the issue tracker.
