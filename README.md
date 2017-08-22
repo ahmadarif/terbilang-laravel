@@ -60,5 +60,5 @@ The MIT License (MIT). Please see [License File](LICENSE.md) for more informatio
 [ico-downloads]: https://img.shields.io/packagist/dt//.svg?style=flat-square
 
 [link-packagist]: https://packagist.org/packages/ahmadarif/terbilang
-[link-downloads]: https://packagist.org/packages/ahmadarif/terbilang
+[link-downloads]: https://packagist.org/packages/ahmadarif/terbilang/stats
 [link-author]: https://github.com/ahmadarif
