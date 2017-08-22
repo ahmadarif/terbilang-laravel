@@ -56,7 +56,7 @@ If you discover any security related issues, please email ahmad.arif019@gmail.co
 
 ## Base Project
 
-Thank you [Mulia Nasution](https://github.com/mul14/terbilang-php), as the basic project for the creation of this library.
+Thanks to [Mulia Nasution](https://github.com/mul14/terbilang-php), as the basic project for the creation of this library.
 
 
 ## License
