@@ -15,11 +15,7 @@ $ composer require ahmadarif/terbilang
 
 ## Usage
 
-``` php
-$teks = Terbilang::make(1000086);
-```
-
-Then add the service provider in `config/app.php`:
+Add the service provider in `config/app.php`:
 
 ```php
 AhmadArif\Terbilang\TerbilangServiceProvider::class,
