@@ -1,6 +1,7 @@
 # Terbilang Laravel
 
 [![License](https://poser.pugx.org/ahmadarif/terbilang/license)](https://packagist.org/packages/ahmadarif/terbilang)
+[![Release Version](https://img.shields.io/github/release/ahmadarif/terbilang-laravel.svg)](https://github.com/ahmadarif/laravel-terbilang/releases)
 [![Latest Stable Version](https://poser.pugx.org/ahmadarif/terbilang/v/stable)](https://packagist.org/packages/ahmadarif/terbilang)
 [![Total Downloads](https://poser.pugx.org/ahmadarif/terbilang/downloads)](https://packagist.org/packages/ahmadarif/terbilang)
 
