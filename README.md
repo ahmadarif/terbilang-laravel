@@ -1,8 +1,8 @@
-# 
+# Terbilang Laravel
 
-[![Latest Version on Packagist][ico-version]][link-packagist]
 [![Software License][ico-license]](LICENSE.md)
-[![Total Downloads][ico-downloads]][link-downloads]
+[![Latest Stable Version](https://poser.pugx.org/ahmadarif/terbilang/v/stable.svg)](https://packagist.org/packages/ahmadarif/terbilang)
+[![Total Downloads](https://poser.pugx.org/ahmadarif/terbilang/downloads.svg)](https://packagist.org/packages/ahmadarif/terbilang)
 
 
 ## Install
@@ -50,6 +50,7 @@ If you discover any security related issues, please email ahmad.arif019@gmail.co
 ## Credits
 
 - [Ahmad Arif][link-author]
+- [Mulia Nasution]()
 
 ## License
 
